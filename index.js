@@ -2,4 +2,4 @@ function HelloContributing() {
   return 'First Contribute !';
 }
 
-console.log(HelloContributin());
+console.log(HelloContributing());
